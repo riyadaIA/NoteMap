@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841971407327",
+    "project_id": "notemap-cbs",
+    "storage_bucket": "notemap-cbs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841971407327:android:7f3569765b42467ba28c6a",
+        "android_client_info": {
+          "package_name": "td.cbs.notemap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALa_ZQ6OwUOa0fyt11scxTgq-lAW4XVFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
